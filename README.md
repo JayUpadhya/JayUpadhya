@@ -1,3 +1,4 @@
+![logo](https://github.com/JayUpadhya/JayUpadhya/blob/main/GitHub.png)
 <h1 align="center">Hi 👋, I'm Jayani Upadhya</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
